@@ -1,6 +1,9 @@
 Hi, I’m Vikas 👋
+
 🎓 Computer Engineering student at Thapar University
+
 💻 Full Stack Web Developer | ⚡ AI Enthusiast
+
 I enjoy building products that make life simpler and smarter. Currently, I’m working on BlindCharm, a blind dating and confession platform with matchmaking, real-time chat, and gamified social features.
 🔹 Skills
 Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
