@@ -1,20 +1,74 @@
-Hi, I’m Vikas 👋
+<div align="center">
 
-🎓 Computer Engineering student at Thapar University
-💻 Full Stack Web Developer | ⚡ AI Enthusiast
+# 👋 Hi, I’m **Vikas Verma**
 
-I enjoy building products that make life simpler and smarter. Currently, I’m working on BlindCharm, a blind dating and confession platform with matchmaking, real-time chat, and gamified social features.
+### 🚀 Full-Stack Developer | GenAI Builder | AI Product Engineer
 
-🔹 Skills
-Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
-Backend: Node.js, Express.js, Supabase, PostgreSQL, Firebase
-Programming: C, C++, Python
-Other: Authentication (Supabase / Firebase), PWA, APIs
+<img src="https://komarev.com/ghpvc/?username=Vikasverma9515&label=Profile%20Views&color=blueviolet&style=flat" />
 
-🔹 Projects
-BlindCharm – Blind dating PWA with lobbies, matchmaking, and chat
-Job Portal App – Job portal built using React, Supabase, and Clerk
-HealthTech AI Project – AI-based mental health chatbot
+---
+
+💡 I build **real-world AI products** and **scalable web apps**
+🧠 Founder of **BlindCharm** (500+ users)
+⚡ Love working on **GenAI, Agentic AI & Real-time systems**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,cpp,postgres,mongodb,tailwind,git,github,docker,firebase,aws" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project                | Tech                   | What it does                                 |
+| ---------------------- | ---------------------- | -------------------------------------------- |
+| ❤️ **BlindCharm**      | Next.js, Supabase, AWS | Real-time blind dating + AI matching         |
+| 💰 **FinSync**         | Next.js, ML, Groq API  | AI-based wealth planning & finance assistant |
+| 💼 **JobNest**         | React, Supabase        | Job portal with auth & live updates          |
+| 🤖 **AI Voice Agents** | LLMs, APIs             | AI callers for lead calls & scheduling       |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikasverma9515&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikasverma9515&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🧠 Currently Exploring
+
+⚙️ Agentic AI systems
+🎙️ AI Voice Agents for real-world businesses
+📈 Scaling AI-powered products
+
+---
+
+### 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/vikas-verma-264103275">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:vikasverma951582@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/Vikasverma9515">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+⭐ If you like my work, drop a star — it genuinely motivates me to build cooler stuff.
+
+</div>
 
 <!---
 Vikasverma9515/Vikasverma9515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
