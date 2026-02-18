@@ -46,6 +46,10 @@
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=Vikasverma9515&theme=tokyo-night" />
 </p>
 
+### 📊 Contribution Graph (Fallback)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikasverma9515&theme=tokyo-night" />
+
+
 
 ---
 
