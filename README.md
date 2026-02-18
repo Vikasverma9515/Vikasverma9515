@@ -8,9 +8,9 @@
 
 ---
 
-💡 I build **real-world AI products** and **scalable web apps**
+💡 Building **AI-powered products** & **scalable web apps**
 🧠 Founder of **BlindCharm** (500+ users)
-⚡ Love working on **GenAI, Agentic AI & Real-time systems**
+⚡ Passionate about **Agentic AI, LLMs & Real-time systems**
 
 ---
 
@@ -24,12 +24,12 @@
 
 ### 🚀 Featured Projects
 
-| Project                | Tech                   | What it does                                 |
-| ---------------------- | ---------------------- | -------------------------------------------- |
-| ❤️ **BlindCharm**      | Next.js, Supabase, AWS | Real-time blind dating + AI matching         |
-| 💰 **FinSync**         | Next.js, ML, Groq API  | AI-based wealth planning & finance assistant |
-| 💼 **JobNest**         | React, Supabase        | Job portal with auth & live updates          |
-| 🤖 **AI Voice Agents** | LLMs, APIs             | AI callers for lead calls & scheduling       |
+| 🚀 Project             | 🧰 Tech                | 💡 What it does                        |
+| ---------------------- | ---------------------- | -------------------------------------- |
+| ❤️ **BlindCharm**      | Next.js, Supabase, AWS | Real-time blind dating + AI matching   |
+| 💰 **FinSync**         | Next.js, ML, Groq API  | AI-based wealth planning platform      |
+| 💼 **JobNest**         | React, Supabase        | Job portal with auth & live updates    |
+| 🤖 **AI Voice Agents** | LLMs, APIs             | AI callers for lead calls & scheduling |
 
 ---
 
@@ -42,11 +42,19 @@
 
 ---
 
-### 🧠 Currently Exploring
+### 🧊 3D Contribution Graph
 
-⚙️ Agentic AI systems
-🎙️ AI Voice Agents for real-world businesses
-📈 Scaling AI-powered products
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Vikasverma9515&theme=tokyo-night" />
+</p>
+
+---
+
+### 🐍 Contribution Snake (Auto-updated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vikasverma9515/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -66,9 +74,10 @@
 
 ---
 
-⭐ If you like my work, drop a star — it genuinely motivates me to build cooler stuff.
+⭐ If you like my work, consider starring my repos — it motivates me to build cooler stuff.
 
 </div>
+
 
 <!---
 Vikasverma9515/Vikasverma9515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
