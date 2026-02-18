@@ -37,14 +37,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vikasverma9515&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikasverma9515&theme=tokyonight" height="160"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikasverma9515&theme=tokyonight" height="160"/> -->
 </p>
 
 ---
-### 🧊 3D Contribution Graph
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Vikasverma9515&theme=tokyo-night" />
-</p>
+
 
 ### 📊 Contribution Graph (Fallback)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikasverma9515&theme=tokyo-night" />
