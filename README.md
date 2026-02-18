@@ -50,8 +50,7 @@
 
 ---
 
-### 🐍 Contribution Snake (Auto-updated)
-
+### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vikasverma9515/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
 </p>
