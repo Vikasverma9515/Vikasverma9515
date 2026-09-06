@@ -18,7 +18,7 @@
 
 <br>
 
-## 🪨 Cairn — an in-app AI copilot that actually clicks the buttons
+## 🪨 Cairn — an agentic AI copilot that actually gets things done
 
 <div align="center">
   <img src="https://img.shields.io/npm/v/@cairnvibe/sdk?style=for-the-badge&color=E07A3F&label=npm" />
