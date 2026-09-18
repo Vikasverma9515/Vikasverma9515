@@ -108,13 +108,13 @@ runtime for anything beyond React too.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikasverma9515&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikasverma9515&theme=tokyo-night&hide_border=true" width="90%"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vikasverma9515&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+</p> -->
 
 ### 🐍 Contribution Snake
 
